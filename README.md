@@ -1,2 +1,1 @@
-# pquantum
-Python SDK for Quantum Computing
+![](PQuantum.png)
